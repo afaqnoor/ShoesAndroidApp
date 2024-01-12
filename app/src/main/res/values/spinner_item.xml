@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_items">
+        <item>Sort by</item>
+        <item>Nike</item>
+        <item>addidas</item>
+        <item>Bata</item>
+    </string-array>
+</resources>

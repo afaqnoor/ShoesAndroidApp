@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ShoesApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_home_fragment">Hello home fragment</string>
+    <string name="hello_favorite_fragment">Hello favorite fragment</string>
+    <string name="hello_shopping_fragment">Hello shopping fragment</string>
+    <string name="hello_account_fragment">Hello account fragment</string>
+    <string name="Adidas">Adidas</string>
+    <string name="Bata">Bata</string>
+    <string name="Puma">Puma</string>
+    <string name="Nike">Nike</string>
+    <string name="Email">Khan21112@gmail.com</string>
+    <string name="Sign_Out">Sign Out</string>
+    <string name="navigation_drawer_open">navigation_drawer_open</string>
+    <string name="navigation_drawer_closed">navigation_drawer_closed</string>
+
+
+</resources>
